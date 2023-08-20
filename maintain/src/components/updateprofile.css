@@ -1,0 +1,28 @@
+/* updateprofile.css */
+
+.profile {
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  background-color: rgb(209, 245, 80);
+}
+
+.heading {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.profile-data {
+  display: flex;
+  flex-direction: column;
+}
+
+.profile-data > * {
+  margin-bottom: 10px;
+}
+
+.error-message {
+  color: red;
+  margin-top: 10px;
+}

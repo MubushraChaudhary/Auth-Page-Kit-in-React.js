@@ -1,0 +1,16 @@
+.new {
+  width: 850px;
+  padding: 8px;
+  border: 1px solid #0e0000;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(241, 17, 17, 0.1);
+  background-color: rgb(209, 245, 80);
+justify-content: right;
+
+}
+
+.mantine-button {
+  display: block;
+  margin: 0 auto;
+}
+
